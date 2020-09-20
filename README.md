@@ -1,5 +1,5 @@
 Project name : Tailoring Shop Management System
-Languaged used: Java 
+Language used: Java 
 Database : MS Access 
 This project has basic functionalities that make easy to track records of daily business.
 Features:
